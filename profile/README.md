@@ -1,4 +1,4 @@
-![SE-Background](https://github.com/https-github-com-SE-TINF22B2/.github/assets/80126696/9b0360ea-37ee-4df5-9e3b-df6619222c31)
+![SE-Background](https://github.com/https-github-com-SE-TINF22B2/.github/assets/80126696/a74b497d-549a-4ecc-ae5b-f56bc0fca9b2)
 
 - Lecture '_Software Engineering I_'  for course TINF22B2 at [Baden-Wuerttemberg Cooperative State University (DHBW)](https://www.dhbw.de/english/home)
 
